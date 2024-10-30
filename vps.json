@@ -1,0 +1,1 @@
+{"Image":"quay.io/skyport/python:lts","Cmd":"","Env":["START=requirements.txt && python app.py"],"Scripts":{"Install":[{"Uri":"https://raw.githubusercontent.com/skyportlabs/images_v2/main/python/requirements.txt","Path":"requirements.txt"}]},"Name":"VPS","Description":"VPS","Author":"thisisnotrealemail@example.com","AuthorName":"me","Meta":{"Version":"Skyport Images v2"}}
